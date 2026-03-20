@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Fala aí, eu sou o Davi!
 
-<!--
-**daviDutraDev/daviDutraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação  
+💻 Focado em Back-end (Java + APIs)  
+🔐 Interessado em Cibersegurança  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou usando
+
+- Java ☕
+- Python 🐍
+- SQL (PostgreSQL / SQL Server)
+- Git & GitHub
+- Linux 🐧 (aprendendo)
+
+---
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento de APIs com Java (Spring Boot futuramente)
+- Fundamentos de redes
+- Cibersegurança / Hacking
+
+---
+
+## 🛠 Projetos em destaque
+
+🔹 Sistema de gestão de estoque de chopp (Java + TXT)  
+🔹 Projetos de cibersegurança (em andamento)  
+🔹 Futuro: API completa com autenticação  
+
+---
+
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Onde me encontrar
+
+- LinkedIn: (coloca aqui)
+- TikTok: (teu conteúdo de programação/cyber)
+
+---
+
+## ⚡ Curiosidade
+
+Sempre buscando evoluir pra entrar no mercado de TI 🚀
