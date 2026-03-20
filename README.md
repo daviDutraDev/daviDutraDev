@@ -1,19 +1,27 @@
-# 👋 Fala aí, eu sou o Davi!
+# 👋 Olá, eu sou o Davi
 
-🎓 Estudante de Sistemas de Informação  
-💻 Focado em Back-end (Java + APIs)  
-🔐 Interessado em Cibersegurança  
+💻 Estudante de Sistemas de Informação  
+🔐 Estudando Cibersegurança  
+🦅 Criador do projeto Horus
 
 ---
+## 🧠 Sobre mim
 
-## 🚀 Tecnologias que estou usando
+Sou estudante de Sistemas de Informação apaixonado por tecnologia.
 
-- Java ☕
-- Python 🐍
-- SQL (PostgreSQL / SQL Server)
-- Git & GitHub
-- Linux 🐧 (aprendendo)
+Atualmente estou focado em:
 
+🔐 Cibersegurança  
+🐍 Desenvolvimento em Python  
+🌐 Segurança Web  
+🦅 Criando a ferramenta **Horus**, um framework de recon para bug bounty.
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ## 📚 Atualmente estudando
@@ -24,11 +32,16 @@
 
 ---
 
-## 🛠 Projetos em destaque
+## 🚀 Projetos
 
-🔹 Sistema de gestão de estoque de chopp (Java + TXT)  
-🔹 Projetos de cibersegurança (em andamento)  
-🔹 Futuro: API completa com autenticação  
+🦅 **Horus**  
+Framework de recon para bug bounty.
+
+🍺 **ChoppSoft**  
+Sistema de gestão de estoque desenvolvido em Java(Projeto em Equipe para Faculdade).
+
+💊 **FastFarma**  
+Sistema de Atendimento para Farmácias
 
 ---
 
@@ -36,12 +49,14 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviDutraDev&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviDutraDev&layout=compact)
 ---
 
-## 🌐 Onde me encontrar
+## 📫 Contato
 
-- LinkedIn: (coloca aqui)
-- TikTok: (teu conteúdo de programação/cyber)
+- LinkedIn: www.linkedin.com/in/davi-gesser-dutra-917bb3330
+- Instagram: davi.g.dutra
+- Email: davigesserdutra@gmail.com
 
 ---
 
